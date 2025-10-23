@@ -12,6 +12,6 @@
     "@rspack/core": "^0.5.0",
     "@rspack/plugin-html": "^0.5.0"
   },
-  "author": "Tsingper",
+  "author": "XY",
   "license": "MIT"
 }
